@@ -2,6 +2,8 @@
 Crop image in 4 different sizes using canvas on React library
 
 # Installation
+Download the project and unzip the crop-project.zip file.
+
 Goto crop-project folder and open command prompt.
 Type below two commands one by one.
 
