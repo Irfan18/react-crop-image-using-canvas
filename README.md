@@ -10,5 +10,7 @@ Type below two commands one by one.
 1. npm install
 2. npm start
 
+Browser will automatically run the project or hit http://localhost:3000/ in the browser
+
 # For Project
 I have added 1024 x 1024px images into crop-project --> src --> assets --> images
